@@ -13,18 +13,18 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Moderate blue: hsl(238, 40%, 52%)
-- Soft Red: hsl(358, 79%, 66%)
-- Light grayish blue: hsl(239, 57%, 85%)
-- Pale red: hsl(357, 100%, 86%)
+- Purple 600: hsl(238, 40%, 52%)
+- Pink 400: hsl(358, 79%, 66%)
+- Purple 200: hsl(239, 57%, 85%)
+- Pink 200: hsl(357, 100%, 86%)
 
 ### Neutral
 
-- Dark blue: hsl(212, 24%, 26%)
-- Grayish Blue: hsl(211, 10%, 45%)
-- Light gray: hsl(223, 19%, 93%)
-- Very light gray: hsl(228, 33%, 97%)
-- White: hsl(0, 0%, 100%)
+- Grey 800: hsl(212, 24%, 26%)
+- Grey 500: hsl(211, 10%, 45%)
+- Grey 100: hsl(223, 19%, 93%)
+- Grey 50: hsl(228, 33%, 97%)
+- White: hsl(0, 100%, 100%)
 
 ## Typography
 
